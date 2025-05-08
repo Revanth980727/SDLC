@@ -1,0 +1,39 @@
+
+        You are a senior software developer tasked with fixing a bug. Please provide a patch for the bug described below:
+
+        Ticket ID: SCRUM-2
+        
+        Bug Title: Unknown bug
+
+        Bug Description:
+        No description provided
+
+        Root Cause Analysis:
+        Unknown
+
+        Your task is to generate code changes that will fix this bug. Please provide your solution in the form of a patch/diff format.
+        
+        Here are the contents of the affected files:
+
+        
+---FILE: GraphRAG.py---
+ correct_function_call()
+
+        For each file that needs changes, format your response like:
+
+        ---FILE: path/to/file---
+        Brief explanation of the changes made.
+
+        ```diff
+        - line to remove
+        + line to add
+        ```
+
+        Make sure to:
+        1. Include proper diff markers (- for removed lines, + for added lines)
+        2. Provide concise but clear explanations of changes
+        3. Only include the lines that are changing plus a few lines of context
+        4. Make the smallest possible changes needed to fix the bug
+
+        If you need more context or information to properly fix the issue, please specify what additional information would help.
+        

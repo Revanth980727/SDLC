@@ -1,0 +1,12 @@
+{
+  "ticket_id": "SCRUM-2",
+  "bug_summary": "Potential errors need to be checked in GraphRAG.py.",
+  "affected_files": [
+    {
+      "file": "GraphRAG.py",
+      "valid": true
+    }
+  ],
+  "error_type": "Unknown",
+  "using_fallback": false
+}

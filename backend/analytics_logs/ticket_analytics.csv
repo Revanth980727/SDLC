@@ -1,0 +1,16 @@
+ticket_id,timestamp,total_retries,final_status,confidence_score,early_escalation,escalation_reason
+SCRUM-2,2025-04-30T03:31:08.966319,0,failed,N/A,False,Process error: PlannerAgent failed: PlannerAgent failed: 'dict' object has no attribute 'strip'
+SCRUM-2,2025-04-30T03:33:11.110133,0,failed,N/A,False,Process error: PlannerAgent failed: PlannerAgent failed: 'dict' object has no attribute 'strip'
+SCRUM-2,2025-04-30T03:34:12.799807,0,failed,N/A,False,Process error: PlannerAgent failed: PlannerAgent failed: 'dict' object has no attribute 'strip'
+SCRUM-2,2025-04-30T15:35:09.033685,2,success,80,False,N/A
+SCRUM-2,2025-04-30T16:11:07.605571,2,success,80,False,N/A
+SCRUM-2,2025-04-30T18:15:52.855433,2,success,80,False,N/A
+SCRUM-2,2025-05-01T20:56:16.795185,2,success,80,False,N/A
+SCRUM-2,2025-05-01T22:04:22.064301,2,success,80,False,N/A
+SCRUM-2,2025-05-01T22:42:41.351673,2,success,85,False,N/A
+SCRUM-2,2025-05-02T02:34:31.740836,2,success,80,False,N/A
+SCRUM-2,2025-05-05T03:52:00.482055,2,success,30,False,N/A
+SCRUM-2,2025-05-05T04:14:43.768182,4,success,75,False,N/A
+SCRUM-2,2025-05-05T04:24:16.415875,2,success,65,False,N/A
+SCRUM-2,2025-05-05T16:33:32.052871,2,success,90,False,N/A
+SCRUM-2,2025-05-05T16:38:03.853405,2,success,90,False,N/A

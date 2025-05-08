@@ -1,0 +1,11 @@
+{
+  "ticket_id": "TEST-123",
+  "files_modified": [],
+  "files_failed": [],
+  "patches_applied": 0,
+  "diff_summary": "Applied 0 changes to 0 files",
+  "raw_gpt_response": "I'm ready to help, but I need more specific information about the bug you're encountering. The ticket you've provided doesn't include details such as the error messages, affected files, modules/components, or functions/classes. Without this information, it's challenging to provide a precise solution.\n\nTo effectively assist you, could you please provide the following details?\n\n1. **Error Messages**: Any error messages or logs that are output when the bug occurs. This can help in identifying the root cause of the issue.\n2. **Affected Files/Modules/Components/Functions/Classes**: Knowing which parts of the software are affected by this bug is crucial for pinpointing where the fix needs to be applied.\n3. **Expected vs. Actual Behavior**: A brief description of what the software is supposed to do in the scenario where the bug occurs, and what it actually does. This helps in understanding the nature of the bug.\n4. **Steps to Reproduce**: A step-by-step guide on how to reproduce the bug. This is essential for testing and ensuring that the bug can be reliably triggered for investigation.\n\nOnce you provide these details, I'll be able to give you a more targeted solution.",
+  "confidence_score": 70,
+  "patched_code": {},
+  "timestamp": "2025-05-02T12:45:02.546451"
+}

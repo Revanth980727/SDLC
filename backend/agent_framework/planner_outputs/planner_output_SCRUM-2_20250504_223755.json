@@ -1,0 +1,12 @@
+{
+  "ticket_id": "SCRUM-2",
+  "bug_summary": "GraphRAG.py throws an import error for networkx.",
+  "affected_files": [
+    {
+      "file": "GraphRAG.py",
+      "valid": true
+    }
+  ],
+  "error_type": "ImportError",
+  "using_fallback": false
+}

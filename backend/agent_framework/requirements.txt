@@ -1,0 +1,5 @@
+
+# No external dependencies required - using only Python standard library
+typing-extensions>=4.0.0  # For better type hints support
+python-dotenv>=1.0.0     # For environment variable management
+openai>=1.0.0           # For OpenAI API access
